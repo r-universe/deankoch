@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rasterbc"]
+	path = rasterbc
+	url = https://github.com/deankoch/rasterbc
+	shallow = true
+	registered = true
