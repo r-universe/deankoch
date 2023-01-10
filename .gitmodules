@@ -8,3 +8,8 @@
 	url = https://github.com/deankoch/rasterbc
 	shallow = true
 	registered = true
+[submodule "snapKrig"]
+	path = snapKrig
+	url = https://github.com/deankoch/snapkrig
+	shallow = true
+	registered = true
