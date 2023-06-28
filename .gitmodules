@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rasterbc"]
 	path = rasterbc
 	url = https://github.com/deankoch/rasterbc
-	shallow = true
-	registered = true
 [submodule "snapKrig"]
 	path = snapKrig
 	url = https://github.com/deankoch/snapkrig
-	shallow = true
-	registered = true
